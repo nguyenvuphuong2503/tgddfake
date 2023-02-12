@@ -333,13 +333,16 @@ text-decoration: none;
 }
 .deal__list-item-sale{
     display: flex;
+   
+   
+    
     
 }
 
 .deal__list-item__slider{
     background-color: var(--while-color);
     width: 224px;
-    height: 400px;
+    height: 100%;
     border-radius: 10px;
     justify-content: space-between;
     padding:30px 10px;
